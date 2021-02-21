@@ -56,17 +56,17 @@ We are going to answer above mentioned questions in this article using different
 
 # <span style="color:#FF7B07"><div align="center">**Data analysis** <a  name="4"></a>
   
-While processing the data, the idea arose to test several hypotheses with the given data. We have all heard the phrase: "I will start on Monday" and most often it refers to the above-mentioned diet and healthy lifestyle. So we wondered if the data from Myfitnesspal would confirm the hypothesis that the diet starts mostly on Mondays and as we can see the hypothesis was really confirmed and we also noticed a very interesting fact: on Wednesdays, the least number of people start which is also due to the reason that in the middle of the week everyone is lazy about the start changing.
+While processing the data, the idea arose to test several hypotheses with the given data. We have all heard the phrase: "I will start on Monday" and most often it refers to the above-mentioned diet and healthy lifestyle. So we wondered if the data from Myfitnesspal would confirm the hypothesis that the diet starts mostly on Mondays and as we can see the hypothesis was really confirmed and we also noticed a very interesting fact: on Wednesdays, the least number of people start which is also due to the reason that in the middle of the week everyone is lazy about the start changing. <br> 
 ![start_date](/images/start_day.PNG) <br>
-It is also quite interesting when people break their healthy diets with a lot of burgers? We think it has more to do with weekends and holidays. The data tells us about the same thing, on Friday people are swimming in the junk food and this is probably due to the fact that many countries have a Friday night fun culture.
+It is also quite interesting when people break their healthy diets with a lot of burgers? We think it has more to do with weekends and holidays. The data tells us about the same thing, on Friday people are swimming in the junk food and this is probably due to the fact that many countries have a Friday night fun culture. <br>
 ![cheat_date](/images/cheat_days.PNG) <br>
-According to one well-known hypothesis, a large portion of users do not use the app after 72 hours. We wondered how true all this was, we tested it and found that we do not have such a decrease as is generally considered. We also found that a certain number of users follow a 6-month health program.
+According to one well-known hypothesis, a large portion of users do not use the app after 72 hours. We wondered how true all this was, we tested it and found that we do not have such a decrease as is generally considered. We also found that a certain number of users follow a 6-month health program. <br> 
 ![logs](/images/logs.PNG) <br>
-According to the data, we found people who are at risk for diabetes and other diseases due to the food they eat. It is important to take care of their health and warn them to follow the rules of a healthy lifestyle. The group on the left side are the people who are on 180 days diet which we will discuss later.
+According to the data, we found people who are at risk for diabetes and other diseases due to the food they eat. It is important to take care of their health and warn them to follow the rules of a healthy lifestyle. The group on the left side are the people who are on 180 days diet which we will discuss later. <br> 
 ![risk](/images/risk_group.PNG) <br>
-Let’s take a look at some of the exciting trends in food intake by month. As it turned out, the season is really important for consumers. If we observe, with the approach of summer, the popularity of strawberries is increasing while coffee is always a favorite product.
+Let’s take a look at some of the exciting trends in food intake by month. As it turned out, the season is really important for consumers. If we observe, with the approach of summer, the popularity of strawberries is increasing while coffee is always a favorite product. <br> 
 ![strawebery](/images/strawbery.PNG) <br>
-Based on the data, we can see the most frequent combos and It may be really interesting for the markets or analog companies. Here you can see 3 meals combo, It becomes clear from the illustration above that our customers eat Saba’s protein milk with peanut butter most frequently . This is logical because people who want to manage their body weight often use milk and similar product in their diet. Following, the report takes a closer look and continue with group of fours. Similarly, we can also see top 4 of this kind of food groups. However, those groups are slightly different from the previous trios. We can see that people who use Cantaloupe often eat Dark Chocolate with Peanut Butter which is a rather surprising combo and interesting finding
+Based on the data, we can see the most frequent combos and It may be really interesting for the markets or analog companies. Here you can see 3 meals combo, It becomes clear from the illustration above that our customers eat Saba’s protein milk with peanut butter most frequently . This is logical because people who want to manage their body weight often use milk and similar product in their diet. Following, the report takes a closer look and continue with group of fours. Similarly, we can also see top 4 of this kind of food groups. However, those groups are slightly different from the previous trios. We can see that people who use Cantaloupe often eat Dark Chocolate with Peanut Butter which is a rather surprising combo and interesting finding <br>
 ![combo3](/images/combo_3.png) <br>
 ![combo](/images/combo_4.png) <br>
 
@@ -80,7 +80,7 @@ Based on the data, we can see the most frequent combos and It may be really inte
 5. healthyDistributed- How healthy the nutrients in the food taken during the day are distributed
 6. Column diff-s - This refers to the difference between the goal and total of nutrients, which shows how much they missed the goal set for each day. <br>
 ![diff_feature](/images/diff_feature.PNG) <br>
-7. Food group - according to nutrients, assume which food group belongs to (fast food, soups, and souces…)
+7. Food group - according to nutrients, assume which food group belongs to (fast food, soups, and souces…) <br>
 ![foodGroup](/images/FoodGroup.PNG) <br>
 
 # <span style="color:#FF7B07"><div align="center">**Predictions** <a  name="6"></a>
