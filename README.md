@@ -12,7 +12,9 @@ adding new features and preparing data so that we can run a model.
 we want to transfer information to pandas dataframe
 so we need to understand in which form is given in json in order to convert it correctly
 
-**predict_reach_goal.ipynb** - implement reach goal model
+**predict_reach_goal.ipynb** - implement model which predicts if user reaches goal
+
+**predict_180days_Diet.ipynb** - implement model which predicts if user is on 180 days diet
 
 **cluster_Customers.ipynb** - implement customer segmentation model
 
