@@ -32,11 +32,14 @@ adding new features and preparing data so that we can run a model.
     - predict_180days_Diet.ipynb
     - Cluster Customers.ipynb
 
+# <span style="color:#FF7B07"><div align="center">**About Project**
+
 [<span style="color:#FF7B07">**1. Motivation**](#1)<br>
 [<span style="color:#FF7B07">**2. About Dataset**](#2)<br>
 [<span style="color:#FF7B07">**3. Ideas**](#3)<br>
 [<span style="color:#FF7B07">**4. Data Analysis**](#4)<br> 
 [<span style="color:#FF7B07">**5. Create Features**](#5)<br>
+[<span style="color:#FF7B07">**6. Predictions**](#6)<br>
 
 # <span style="color:#FF7B07"><div align="center">**Motivation** <a  name="1"></a>
   
