@@ -1,5 +1,6 @@
 # MyFitnessPal
 
+# <span style="color:#FF7B07"><div align="center">**File description**
 **original_data_discuss.ipynb** - This file is designed to look into the original data, which is in json format.
 we want to transfer information to pandas dataframe
 so we need to understand in which form is given in json in order to convert it correctly
@@ -18,6 +19,18 @@ adding new features and preparing data so that we can run a model.
 
 **cluster_Customers.ipynb** - implement customer segmentation model
 
+**/images** - images for readme file
+
+# <span style="color:#FF7B07"><div align="center">**To run project**
+1. Clone this repository
+2. Download data from https://drive.google.com/drive/folders/1-ANBuqAEf4WVFoqLzu0tqXY4DZcPKge9?usp=sharing
+3. Create folder 'data' next to MyFitnessPal folder and move downloaded files here
+4. run parse_data.ipynb
+5. run data_preprocessing.ipynb
+6. Based on your interest run: 
+    - predict_reach_goal.ipynb
+    - predict_180days_Diet.ipynb
+    - Cluster Customers.ipynb
 
 [<span style="color:#FF7B07">**1. Motivation**](#1)<br>
 [<span style="color:#FF7B07">**2. About Dataset**](#2)<br>
