@@ -109,6 +109,4 @@ As for the app, the Myfitnesspal, as well as for the users, it is significant an
 we need guarantee that the persons for which we tell that are not on the 180 days diet, really are not on this. So if we take people who started log in first 30 days, we have guarantee that we choose correct ones
 
 - How are app customers segmented?
-TODO
-
-
+In the process of creating the two models mentioned above, when we were analyzing the data and trying to extract useful insights from it, it appeared that there were noticeable differences between Myfitnespal users. Since we did not know in advance that we would resolve these differences, we did not prepare any logic for them in advance, so we used Unsupervised Learning and clustered to make these differences more visible. We used the KMeans algorithm for clustering. After experimenting with different features and the number of clusters, the most optimal option was to divide them into 2 clusters. To see if the model really saw the differences between the users, we checked the variables we did not use in the modeling to see how the logic of the model applied to these variables. As a result, we made sure that we have 2 different groups, on which we can apply different business logic in the future.
