@@ -48,8 +48,6 @@ The healthcare industry is booming, especially when it comes to the analysis of 
 
 # <span style="color:#FF7B07"><div align="center">**About Dataset** <a  name="2"></a>
 
-Source https://www.kaggle.com/vetrirah/customer?select=Train.csv
-
 MyFitnessPal provides a dataset uploaded on the Kaggle. It contains 587,187 days of food diary
 records logged by 9.9K MyFitnessPal users from September 2014 through
 April 2015. Each line is a tab-separated list of:
